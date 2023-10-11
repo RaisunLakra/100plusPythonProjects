@@ -1,0 +1,9 @@
+# Byte compiled / optimized / DLL files
+
+__pycache__/
+*.exe
+*.sql
+*.pyc
+*.git
+*.py[cod]
+*$py.class
